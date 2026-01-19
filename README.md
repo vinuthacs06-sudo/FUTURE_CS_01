@@ -22,5 +22,5 @@ All supporting evidence and tool outputs are available in the `screenshots/` fol
 
 ### Disclaimer
 This vulnerability assessment was performed **strictly for educational purposes** as part of a Cyber Security internship.  
-The target website is an **intentionally vulnerable test application provided by Acunetix**.  
-No testing was conducted on real-world or production systems.
+The target website is an **intentionally vulnerable test applications.  
+
